@@ -6,6 +6,7 @@ The admin of the smart contract is able to add/remove music from the directory a
 This was written while following along with the course available at tacode.dev.
 
 # Example Storage 
+```
 [(0n, { 
      track_title = "Thing a week.";
      track_artist = "Jonathan Coulton";
@@ -25,3 +26,4 @@ This was written while following along with the course available at tacode.dev.
      track_album = "A thing a week three";
      track_release = 2006;
 });]
+```
